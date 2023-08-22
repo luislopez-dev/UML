@@ -51,25 +51,23 @@ y la/las acciones a tomar para manejar dicha excepción.
 
 ![señales de tiempo-ejemplo](https://github.com/luislopez-dev/UML/assets/48783255/ec4ebb5c-d3bc-4d32-b37f-44431d862306)
 
-## Región de actividad interrumpible
-
-Permite marcar el grupo de acciones cuya ejecución puede interrumpirse por una excepción, 
-y la/las acciones a tomar para manejar dicha excepción. 
-
-## Ejemplo (pending):
-
 ## PARTICIONES O MARCOS DE REPONSABILIDAD
+
+Son franjas que pueden ser horizontales o verticales, sirven para expandir el diagrama de actividades y mostrar quien tiene la 
+responsabilidad en un proceso. Representan a un determinado objeto o sujeto. Cada uno muestra el nombre de un responsable 
+y las actividades que se encuentran a su cargo.
 
 ﻿![particiones-ejemplo](https://github.com/luislopez-dev/UML/assets/48783255/4b7d02d0-9c07-43f7-99da-54312ce92ca0)
 
 # Ejercicio diagrama de actividades:
 
+
+## Problema:
+
 Una empresa dedicada al comercio de ropa para damas ha reunido a su personal para realizar el levantamiento de su proceso de venta en línea. Tu trabajo es apoyarles en el modelado del diagrama de actividades. A la reunión ha asistido personal del área de ventas, atención al cliente, facturación, bodega e inventario.
 Iniciada la reunión, la persona de ventas indica que el proceso comienza cuando el usuario ingresa a la tienda virtual, selecciona los productos a comprar, y paga el valor de compra, la persona de ventas indica que antes de realizar el pago el usuario puede ver el detalle de la factura mediante la tienda virtual, pero las facturas canceladas no son enviadas directamente a la bodega para su despacho, por políticas internas de la empresa cada factura generada por compra en línea es revisada de forma manual por una persona de ventas. Las ordenes de compra que tienen factura revisada son enviadas al área de bodega para su despacho, la persona de la bodega indica que lo primero que realiza tras recibir las ordenes de compra es revisar si existe el producto en stock debido a que en ocasiones dos o más usuarios compra el mismo producto en línea de manera simultánea generando falta de producto en la bodega. Si el producto existe en stock el despacho es realizado, pero si el producto no existe la empresa tiene una política de compensación al usuario el cual consiste en: generar a favor del consumidor un cupón del 20% de descuento para su próxima compra, tarea que está a cargo de la persona de ventas, mientras que la persona de atención al cliente llama vía telefónica al usuario y le informa de la demora así como su respectiva bonificación, por otro lado cuando suceden este tipo de casos la persona de inventario realiza una adquisición inmediata del producto. Finalmente, cuando el producto se encuentra listo en bodega se realiza el despacho.
 La administración ha solicitado adicional que en el diagrama de actividades se especifique los estados de la orden de compra para una mejor comprensión de cómo evoluciona este a lo largo del proceso.
-Son franjas que pueden ser horizontales o verticales, sirven para expandir el diagrama de actividades y mostrar quien tiene la 
-responsabilidad en un proceso. Representan a un determinado objeto o sujeto. Cada uno muestra el nombre de un responsable 
-y las actividades que se encuentran a su cargo.
+
 
 # Pasos para la resolicón de un diagrama de actividades:
 
