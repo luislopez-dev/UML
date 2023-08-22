@@ -1,5 +1,33 @@
 # Diagrama de Actividades
 
+Permite detallar flujos de trabajo desde el punto de inicio hasta el punto final detallando los puntos
+de decisión, bifurcaciones y rutas de decisión.
+
+Son utilizados para representar el comportamiento interno de una operación, un caso de uso o un 
+proceso de negocio (Workflow).
+
+Tiene la facultad de expandirse y mostrar quien tiene la responsabilidad en un proceso. 
+
+Elementos principales:
+
+![Diagrama de actividades - Elementos principales](https://github.com/luislopez-dev/UML/assets/48783255/49f74b26-9bbc-4b26-8aae-2eb641009029)
+
+Nodo decisión - fusión
+
+![Nodo decisión - fusión](https://github.com/luislopez-dev/UML/assets/48783255/9d9589bb-55f7-4201-ae20-612306153561)
+
+Nodo-bifurcación-unión
+
+![Nodo-bifurcación-unión](https://github.com/luislopez-dev/UML/assets/48783255/d63514fd-fecb-4444-8d7f-dccb1aa23937)
+
+Ejemplo - Nodo-bifurcación-unión
+
+![Ejemplo - Nodo Bifurcación - Unión](https://github.com/luislopez-dev/UML/assets/48783255/94d26688-d0ad-4510-9de4-5af1601d9c0c)
+
+Nodo Objeto
+
+![Nodo objeto](https://github.com/luislopez-dev/UML/assets/48783255/28fc0f8e-6d75-4c49-ac4f-28cd027bb32f)
+
 ## Señales
 
 ### * Señales de envio y recepción: Permite enviar o recibir un mensaje / evento.
@@ -7,6 +35,13 @@
 ![Captura de pantalla (174)](https://github.com/luislopez-dev/UML/assets/48783255/89ac8afa-a8a7-4f8a-ab83-207d1bf0f662)
 
 ![send-receive-img-2](https://github.com/luislopez-dev/UML/assets/48783255/61724283-18ec-4c4d-b04d-b198f513832f)
+
+## Región de actividad interrumpible
+
+Permite marcar el grupo de acciones cuya ejecución puede interrumpirse por una excepción, 
+y la/las acciones a tomar para manejar dicha excepción. 
+
+![Captura de pantalla (183)](https://github.com/luislopez-dev/UML/assets/48783255/431a8e50-2f36-4831-92f2-1a01edddbd4f)
 
 ### * Señales de tiempo: Permite representar cada cuanto se ejecutará una determinada actividad.
 
