@@ -96,9 +96,10 @@ Cliente y administrador de tienda virtual
 
    
 5. Identificar relaciones entre actores y casos de uso
-   
-![Diagramas de caso de uso - ejercicio - Paso 8](https://github.com/luislopez-dev/UML/assets/48783255/0445ff72-915a-4515-a0cc-5967e00be6f8)
+
+![5](https://github.com/luislopez-dev/UML/assets/48783255/79312d13-51e5-4b0c-95de-f7cf3b2e2318)
+
 
 6. Identificar relaciones entre casos de uso
-![Diagramas de caso de uso - ejercicio - Último paso](https://github.com/luislopez-dev/UML/assets/48783255/87d04a34-3a6b-4136-8b91-ff00ed384f3f)
 
+![6](https://github.com/luislopez-dev/UML/assets/48783255/498729bc-bcae-40d7-a0ff-2b7520b2136c)
