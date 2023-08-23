@@ -56,3 +56,49 @@ Permite mostrar la interacción entre un actor y un caso de uso, o entre un caso
 
 ![Diagrama - casos de uso - elementos](https://github.com/luislopez-dev/UML/assets/48783255/373b79f8-e68a-4dba-8afe-fd99f3c70809)
 
+<br>
+
+## Ejercicio
+
+### Problema:
+
+Una empresa dedicada a la venta de artículos de belleza, a solicitado que se desarrolle un aplicativo para la venta en línea de sus productos.
+Durante la reunión de levantamiento de requerimientos los solicitantes han indicado que dicho aplicativo debe permitir al cliente ver el catálogo de todos sus productos, seleccionar el producto que desee y agregarlo a un carrito para la compra. Los solicitantes han indicado que el sistema debe verificar la disponibilidad del producto antes de realizar las actividades anteriores. Una vez que el cliente ha finalizado la selección de sus productos, el sistema debe presentar en pantalla el detalle de la factura para que el cliente pueda continuar con el pago, los mecanismos habilitados para ello serán: Transferencia Bancaria y Pago con Tarjeta. Efectuado el pago el sistema deberá remitir automáticamente la factura al correo electrónico del cliente.
+La empresa ha indicado también que el sistema debe incluir, una opción de consulta de compras realizada para el cliente, un módulo de administración de precios y descuentos para el administrador de la tienda, y finalmente, que se incluya como parte de la opción de pago una funcionalidad que permita al cliente ingresar sus cupones de descuento que reciben por compras frecuente o compras mayores a 300 dólares.
+
+### Pasos para la resolución: 
+
+1. Leer detenidamente el problema poniendo mayor atención a todo lo que involucre: funciones, actores y ralaciones.
+
+2. Identificar el sistema
+
+Aplicativo para la venta en línea
+
+![Diagrama casos de uso - ejercicio -Paso 1](https://github.com/luislopez-dev/UML/assets/48783255/e7c0ce3a-78dc-4bda-91b3-f086e9b4352c)
+
+3. Identificamos las funcionalidades (casos de uso): <br>
+
+a. Visualizar productos <br>
+b. Agregar producto a carrito <br>
+c. Realizar pago <br>
+d. Consultar compras realizadas <br>
+e. Administrar precios y descuentos <br>
+f. Verificar disponibilidad <br>
+g. Enviar factura electrónica <br>
+h. Procesar cupón de descuento <br>
+
+
+![Diagrama de casos de uso - ejercicio - paso 5](https://github.com/luislopez-dev/UML/assets/48783255/345e7186-15e1-434f-9f6d-a5720a56b05b)
+
+4. Identificar actores: <br>
+
+Cliente y administrador de tienda virtual
+
+   
+5. Identificar relaciones entre actores y casos de uso
+   
+![Diagramas de caso de uso - ejercicio - Paso 8](https://github.com/luislopez-dev/UML/assets/48783255/0445ff72-915a-4515-a0cc-5967e00be6f8)
+
+6. Identificar relaciones entre casos de uso
+![Diagramas de caso de uso - ejercicio - Último paso](https://github.com/luislopez-dev/UML/assets/48783255/87d04a34-3a6b-4136-8b91-ff00ed384f3f)
+
