@@ -1,4 +1,4 @@
-![Diagrama sin título drawio (1)](https://github.com/luislopez-dev/UML/assets/48783255/12c8fc51-7e89-4b86-aaf7-9734156739ab)# Diagrama de estados
+# Diagrama de estados
 
 Muestra los estados por los cuales puede pasar una entidad u objeto en el transcuros del tiempo.
 
@@ -17,10 +17,7 @@ Un diagrama de actividades nos permitirá:
 1. Tener una visión transversal y completa del flujo de negocio, y
 2. Nos facilitará la identificación de los objetos o entidades que requieran la generación de diagramas de estado.
 
-
-2. Identificar los objetos o entidades involucradas en el proceso de negocio.
-
-Identificar los objetos o entidades involucradas en el proceso de negocio:
+2. Identificar los objetos o entidades involucradas en el proceso de negocio:
 
 1. Orden de compra
 2. Producto
