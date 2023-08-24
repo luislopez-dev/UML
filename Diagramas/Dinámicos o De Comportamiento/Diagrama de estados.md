@@ -42,7 +42,5 @@ b. Nos facilitará la identificación de los objetos o entidades que requieran l
 
 4. Colocar estados y transiciones en herramienta de modelado
 
+![Diagrama de estados - ORDENES](https://github.com/luislopez-dev/UML/assets/48783255/c908b875-461d-4e8c-ab4b-fda17e4c84c5)
 
-
-
-   
