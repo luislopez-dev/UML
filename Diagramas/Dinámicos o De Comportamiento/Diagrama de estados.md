@@ -17,6 +17,8 @@ Un diagrama de actividades nos permitirá: <br>
 a. Tener una visión transversal y completa del flujo de negocio, y <br>
 b. Nos facilitará la identificación de los objetos o entidades que requieran la generación de diagramas de estado.
 
+![Diagrama de actividades madeFor  diagrama de estados](https://github.com/luislopez-dev/UML/assets/48783255/4bbe4491-41fc-46a2-83d8-3b565589ed5c)
+
 <br>
 
 2. Identificar los objetos o entidades involucradas en el proceso de negocio: <br>
@@ -25,7 +27,7 @@ b. Nos facilitará la identificación de los objetos o entidades que requieran l
 2.2. Producto <br>
 2.3. Cupon de descuento <br>
 
-![Diagrama de actividades madeFor  diagrama de estados](https://github.com/luislopez-dev/UML/assets/48783255/4bbe4491-41fc-46a2-83d8-3b565589ed5c)
+![Diagrama sin título drawio](https://github.com/luislopez-dev/UML/assets/48783255/8230b75e-3e14-48e8-af4c-b71692523dbd)
 
 3. Identificar los estados y transiciones para el objeto o entidad 1 (Orden de compra)
 
