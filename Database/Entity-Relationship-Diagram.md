@@ -1,1 +1,1 @@
-# Entity Relatinship (ER) Diagram
+# Diagrama De Entidad-Relación (ERD)
