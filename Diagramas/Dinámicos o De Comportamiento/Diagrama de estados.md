@@ -31,6 +31,9 @@ b. Nos facilitará la identificación de los objetos o entidades que requieran l
 
 3. Identificar los estados y transiciones para el objeto o entidad 1 (Orden de compra)
 
+Transiciones: Son acciones o condiciones que debe cumplirse para que una entidad pase a un estado a otro.
+<br>
+
 3.1. REGISTRADA <br>
 3.2. PENDIENTE_DESPACHO <br>
 3.3. DESPACHADA <br>
@@ -45,3 +48,4 @@ b. Nos facilitará la identificación de los objetos o entidades que requieran l
 ![Diagrama de estados - ORDENES](https://github.com/luislopez-dev/UML/assets/48783255/c908b875-461d-4e8c-ab4b-fda17e4c84c5)
 
 5. Identificar los estados y transiciones para el objeto o entidad 2 (Producto)
+
