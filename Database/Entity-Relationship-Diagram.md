@@ -10,3 +10,7 @@ Define la relación en un contexto númerico. En particular en mínimos y máxim
 ### Conceptos
 
 1. Llave primaria compuesta: Dos llaves foraneas que crean una sola llave primaria. 
+2. Tabla puente: Permite una relación intermedia de uno a muchos. Ejemplo: entidad de pedido.
+
+### Ejemplo:
+
