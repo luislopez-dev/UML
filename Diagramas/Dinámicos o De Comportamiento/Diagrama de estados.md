@@ -55,5 +55,11 @@ Transiciones: Son acciones o condiciones que debe cumplirse para que una entidad
 5.2 RESERVADO <br>
 5.3 VENDIDO <br>
 
-![DIAGRAMA DE ESTADOS - PRODUCTO](https://github.com/luislopez-dev/UML/assets/48783255/bee0c6a9-7f7d-44f9-b071-810b24d8b909)
+![Activity Diagram0_0](https://github.com/luislopez-dev/UML/assets/48783255/6e822ba1-0386-4596-a594-d5af3e3e508f)
+
+![Diagrama sin título drawio (3)](https://github.com/luislopez-dev/UML/assets/48783255/b0efdb58-80a5-4083-8556-af901f80cec1)
+
+6. Colocar estado y transiciones en la herramienta de modelado
+
+
 
