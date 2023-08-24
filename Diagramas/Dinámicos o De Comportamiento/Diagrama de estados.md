@@ -13,7 +13,7 @@ por eso se debe haber realizado previamente un diagrama de actividades.
 
 1. Tener listo el diagrama de actividades de todo el proceso de negocio a implementar:
 
-Un diagrama de actividades nos permitirá:
+Un diagrama de actividades nos permitirá: <br>
 a. Tener una visión transversal y completa del flujo de negocio, y <br>
 b. Nos facilitará la identificación de los objetos o entidades que requieran la generación de diagramas de estado.
 
