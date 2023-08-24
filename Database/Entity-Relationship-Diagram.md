@@ -6,7 +6,7 @@ Define la relación en un contexto númerico. En particular en mínimos y máxim
 
 ![Captura de pantalla (190)](https://github.com/luislopez-dev/UML/assets/48783255/0f1324ef-8af5-48eb-adca-4fb3426933c7)
 
-### Ejercicios
 
-1.
-![Diagrama sin título drawio (4)](https://github.com/luislopez-dev/UML/assets/48783255/c49799c1-eb4c-4e27-a31d-5f15539cc095)
+### Conceptos
+
+1. Llave primaria compuesta: Dos llaves foraneas que crean una sola llave primaria. 
