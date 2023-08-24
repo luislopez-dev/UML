@@ -43,7 +43,7 @@ Transiciones: Son acciones o condiciones que debe cumplirse para que una entidad
 
 ![Diagrama sin título drawio (1)](https://github.com/luislopez-dev/UML/assets/48783255/0b992cf7-8fa9-4649-be3f-ae6cf10c3b16)
 
-4. Colocar estados y transiciones en herramienta de modelado
+4. Colocar estados y transiciones en herramienta de modelado / Cread diagrama de estados
 
 ![Diagrama de estados - ORDENES](https://github.com/luislopez-dev/UML/assets/48783255/c908b875-461d-4e8c-ab4b-fda17e4c84c5)
 
@@ -59,7 +59,8 @@ Transiciones: Son acciones o condiciones que debe cumplirse para que una entidad
 
 ![Diagrama sin título drawio (3)](https://github.com/luislopez-dev/UML/assets/48783255/b0efdb58-80a5-4083-8556-af901f80cec1)
 
-6. Colocar estado y transiciones en la herramienta de modelado
+6. Colocar estado y transiciones en la herramienta de modelado / Crear diagrama de estados
 
+![DIAGRAMA DE ESTADOS - PRODUCTO](https://github.com/luislopez-dev/UML/assets/48783255/a7bc6aea-155c-4c0c-ab26-966f296c59bf)
 
 
