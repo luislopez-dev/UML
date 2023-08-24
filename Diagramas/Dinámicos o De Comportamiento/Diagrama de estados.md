@@ -49,3 +49,11 @@ Transiciones: Son acciones o condiciones que debe cumplirse para que una entidad
 
 5. Identificar los estados y transiciones para el objeto o entidad 2 (Producto)
 
+Transiciones: Son acciones o condiciones que debe cumplirse para que una entidad pase a un estado a otro. <br>
+
+5.1 DISPONIBLE <br>
+5.2 RESERVADO <br>
+5.3 VENDIDO <br>
+
+![DIAGRAMA DE ESTADOS - PRODUCTO](https://github.com/luislopez-dev/UML/assets/48783255/bee0c6a9-7f7d-44f9-b071-810b24d8b909)
+
