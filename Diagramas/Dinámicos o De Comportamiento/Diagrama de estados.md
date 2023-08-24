@@ -44,3 +44,4 @@ b. Nos facilitará la identificación de los objetos o entidades que requieran l
 
 ![Diagrama de estados - ORDENES](https://github.com/luislopez-dev/UML/assets/48783255/c908b875-461d-4e8c-ab4b-fda17e4c84c5)
 
+5. Identificar los estados y transiciones para el objeto o entidad 2 (Producto)
