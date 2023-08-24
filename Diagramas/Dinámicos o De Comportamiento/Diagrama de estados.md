@@ -31,6 +31,13 @@ b. Nos facilitará la identificación de los objetos o entidades que requieran l
 
 3. Identificar los estados y transiciones para el objeto o entidad 1 (Orden de compra)
 
+3.1. REGISTRADA <br>
+3.2. PENDIENTE_DESPACHO <br>
+3.3. DESPACHADA <br>
+3.4. EN_CAMINO <br>
+3.5. REGRESA_A_BODEGA <br>
+3.6. ENTREGADA <br>
+
 ![Diagrama sin título drawio (1)](https://github.com/luislopez-dev/UML/assets/48783255/0b992cf7-8fa9-4649-be3f-ae6cf10c3b16)
 
 4. Colocar estados y transiciones en herramienta de modelado
