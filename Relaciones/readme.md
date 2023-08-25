@@ -1,5 +1,7 @@
 # Relaciones
 
+Ejemplo de aplicación en clases: https://github.com/luislopez-dev/UML/blob/main/Diagramas/Est%C3%A1ticos%20o%20Estructurales/Diagrama_de_clases.md
+
 ##
 
 ## Asociación
