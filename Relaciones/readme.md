@@ -29,5 +29,5 @@ Es un tipo especial de agregación que espeficifíca un todo y sus partes. Es la
 ## Dependencia
 <img src="https://github.com/luislopez-dev/UML/assets/48783255/b09dfda9-03da-42ba-8bb9-41ceadb44b2f" width="350">
 
-## Realización
+## Implementación / Realización
 <img src="https://github.com/luislopez-dev/UML/assets/48783255/f23f892b-5329-4879-ac5e-4ce0c4df22ab" width="350">
