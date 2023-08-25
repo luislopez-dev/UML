@@ -7,3 +7,4 @@
 ## - = Privado
 ## # = Protegido
 
+## Relaciones: https://github.com/luislopez-dev/UML/edit/main/Relaciones/readme.md
