@@ -18,7 +18,7 @@ Es un tipo especial de agregación que espeficifíca un todo y sus partes. Es la
 
 ## Composición
 
-Es un tipo especial de agregación que espeficifíca un todo y sus partes. Es la relación en la que una parte puede existir fuera del todo. Es cuando un objeto derrivado no podría existir sin su objeto principal.
+Es un tipo especial de agregación que espeficifíca un todo y sus partes. Es la relación en la que una parte no puede existir fuera del todo. Es cuando un objeto derrivado no podría existir sin su objeto principal.
 <br>
 
 <img src="https://github.com/luislopez-dev/UML/assets/48783255/c6fe53e0-93c0-46f2-883d-ce63a31c1b5f" width="350">
