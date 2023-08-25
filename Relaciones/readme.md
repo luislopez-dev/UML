@@ -13,12 +13,14 @@ Ejemplo de aplicación en clases: https://github.com/luislopez-dev/UML/blob/main
 
 Es un tipo especial de agregación que espeficifíca un todo y sus partes. Es la relación en la que una parte puede existir fuera del todo.
 <br>
+
 <img src="https://github.com/luislopez-dev/UML/assets/48783255/d9693a48-b3b2-4ab7-9bcc-9f09a8c271cc" width="350">
 
 ## Composición
 
 Es un tipo especial de agregación que espeficifíca un todo y sus partes. Es la relación en la que una parte puede existir fuera del todo. Es cuando un objeto derrivado no podría existir sin su objeto principal.
 <br>
+
 <img src="https://github.com/luislopez-dev/UML/assets/48783255/c6fe53e0-93c0-46f2-883d-ce63a31c1b5f" width="350">
 
 ## Herencia / Generalización
