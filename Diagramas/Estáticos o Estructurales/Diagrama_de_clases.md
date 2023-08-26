@@ -20,7 +20,7 @@ Tipos de multiplacidad:
 6. 1..* = Uno a muchos
 7. m..n = Rango especifico de números
 
-## Relaciones: https://github.com/luislopez-dev/UML/edit/main/Relaciones/readme.md
+## Relaciones: https://github.com/luislopez-dev/UML/tree/main/Relaciones
 
 ## Ejemplo:
 
