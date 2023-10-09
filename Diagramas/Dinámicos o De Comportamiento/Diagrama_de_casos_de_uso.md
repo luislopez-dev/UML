@@ -34,8 +34,8 @@ e. Consultar el stock en linea <br>
 un icono de una persona, y deben ir siempre fuera de nuestro rectángulo pues son entidades externas del sistema.
 
 #### Tipos de actores: <br>
-Principales: Tienen objetivos de usuario que se satisfacen mediante el uso del sistema.<br>
-De apoyo: Son aquellos que brindan proporcianan un servicio al sistema. Ejemplo: Pasarela de pago.
+1. Principales: Tienen objetivos de usuario que se satisfacen mediante el uso del sistema.<br>
+2. De apoyo: Son aquellos que brindan proporcianan un servicio al sistema. Ejemplo: Pasarela de pago.
 
 4. Relaciones
 
