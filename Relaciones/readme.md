@@ -31,3 +31,6 @@ Es un tipo especial de agregación que espeficifíca un todo y sus partes. Es la
 
 ## Implementación / Realización
 <img src="https://github.com/luislopez-dev/UML/assets/48783255/f23f892b-5329-4879-ac5e-4ce0c4df22ab" width="350">
+
+
+© 2023-2024. Luis López (https://github.com/luislopez-dev). All rights reserved. 

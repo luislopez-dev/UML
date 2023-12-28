@@ -9,3 +9,5 @@ Es la representación gráfica de un conjunto de elementos
 * Se dividen en 2 tipos:
 * 1. Diagramas estáticos o estructurales
   2. Diagramas dinámicos o de comportamiento
+
+© 2023-2024. Luis López (https://github.com/luislopez-dev). All rights reserved. 

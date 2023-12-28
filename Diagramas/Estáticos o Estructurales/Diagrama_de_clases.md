@@ -25,3 +25,5 @@ Tipos de multiplacidad:
 ## Ejemplo:
 
 ![Diagrama de Clases](https://github.com/luislopez-dev/UML/assets/48783255/1470aa14-5491-4d2f-9fcd-b91a7c336be7)
+
+© 2023-2024. Luis López (https://github.com/luislopez-dev). All rights reserved. 

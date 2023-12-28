@@ -103,3 +103,5 @@ Cliente y administrador de tienda virtual
 6. Identificar relaciones entre casos de uso
 
 ![6](https://github.com/luislopez-dev/UML/assets/48783255/498729bc-bcae-40d7-a0ff-2b7520b2136c)
+
+© Luis López (https://github.com/luislopez-dev). All rights reserved. 

@@ -11,3 +11,5 @@ Existen en 6 tipos de diagramas estáticos o estructurales:
 4. Diagrama de componentes
 5. Diagrama de estructura
 6. Diagrama de paquetes
+
+© 2023-2024. Luis López (https://github.com/luislopez-dev). All rights reserved. 

@@ -17,3 +17,5 @@ Hay 7 tipos de diagramas de comportamiento:
 4.3 Diagrama de comunicación
 
 4.4 Diagrama global de interacciones
+
+© Luis López (https://github.com/luislopez-dev). All rights reserved. 

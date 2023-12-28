@@ -64,3 +64,4 @@ Transiciones: Son acciones o condiciones que debe cumplirse para que una entidad
 ![DIAGRAMA DE ESTADOS - PRODUCTO](https://github.com/luislopez-dev/UML/assets/48783255/a7bc6aea-155c-4c0c-ab26-966f296c59bf)
 
 
+© Luis López (https://github.com/luislopez-dev). All rights reserved. 

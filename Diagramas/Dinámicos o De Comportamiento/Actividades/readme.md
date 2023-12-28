@@ -124,3 +124,4 @@ que hacen que el flujo de negocio sigan un camino u otro en base a al resultado 
 ![Activity Diagram - EXERCICE- STEP 6](https://github.com/luislopez-dev/UML/assets/48783255/320a0f22-f135-4433-ab97-ea41ba1a7dd8)
 
 
+© 2023-2024. Luis López (https://github.com/luislopez-dev). All rights reserved. 
